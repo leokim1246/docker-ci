@@ -1,7 +1,7 @@
 name: GitActions-Demo3
 on:
   schedule:
-    - cron: '0 04 * * *'
+    - cron: '54 03 * * *'
 jobs:
   check-time:
     runs-on: ubuntu-latest
